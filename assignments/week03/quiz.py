@@ -6,7 +6,12 @@ age = int(input("Enter age: "))
 # 13-19: Teenager
 # 20-59: Adult
 # 60+: Senior
+<<<<<<< HEAD
  
+=======
+
+# Your code here:
+>>>>>>> 712317bc8ab7d30bb4a87978b257cb9ae61eae63
 if age <= 12:
     print("Child")
 elif age <= 19:
@@ -15,6 +20,10 @@ elif age <= 59:
     print("Adult")
 else:
     print("Senior")
+<<<<<<< HEAD
+=======
+
+>>>>>>> 712317bc8ab7d30bb4a87978b257cb9ae61eae63
 
 # Complete this ATM simulation
 balance = 1000
